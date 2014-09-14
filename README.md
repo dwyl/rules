@@ -12,7 +12,7 @@ See below for guidelines for contributing.
 ### Email
 
 - ***One*** Subject/Topic/Request/Action Point **per email**.
-- Don't hijack an email with one subject and reply
+- ***Don't hijack*** an email with one subject and reply
 with a *totally different* one.
 e.g. if the topic is "**Training Policy**" don't try to
 sidetrack the email to a conversation about
@@ -27,6 +27,9 @@ to reply-to-all to ensure those people are kept informed.
 (yes this perpetuates an *include everyone* mistake
   but its better to keep people informed than
   have them feel "left out")
+
+More detail: http://www.emailreplies.com
+(please add the ones you feel are important)
 
 ### Instant Messaging
 
@@ -71,6 +74,14 @@ people from making promises they can't keep
 
 ## Chargeable Work
 
+### Getting Paid
+
+We get paid when we:
+- **Solve a problem** for someone.
+- **Save someone time** (e.g. a cleaner)
+- **Provide a service**
+
+
 ### What is Chargeable?
 
 An task is *only* chargeable if it has been <br />
@@ -88,8 +99,42 @@ requestor.
 
 ### Non-Chargeable Work
 
-Work that has not been formally requested
-by a requestor is **not chargeable**.
+Work that has **not** been ***formally requested**
+by a requestor is ***not chargeable**.
+
+#### We Don't Get Paid to *Read*
+
+The simple rule is: ***No end result***, ***no payent***.
+
+The only people who get paid to read are
+code reviewers, editors and
+librarians; we are neither of these.
+If you *chose* to review a book for an author/publisher,
+don't expect to get paid;
+you are doing it for a free book.
+*Unless* you are writing
+***detailed notes*** on the book and condensing it so
+that you can pass on the knowledge to others, you
+are reading to understand the topic covered in the
+book/article/tutorial and learn from the experience
+of the author.
+We get paid for ***implementing*** the knowledge
+gained through reading.
+
+If a chef reads lots of recipe books but makes
+no food, how much would you pay for his/her services?
+You're not going to pay the chef for the
+delicious meal they *read* about, you'd starve.
+
+***If*** on the other hand you produce a detailed
+tutorial as the result of your reading - better than
+existing tutorials on that subject - that can be
+published on the company website, that is ***content***
+and is therefore paid work.
+
+Again the simple rule applies: ***Content*** is an end result,
+therefore it can be charged at a standard rate.
+
 
 ### Invoicing
 
