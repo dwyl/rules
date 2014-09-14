@@ -1,4 +1,3 @@
-![Move-Fast-and-MAKE-Things](http://i.imgur.com/yQE76kc.png)
 
 # Rules
 
@@ -7,6 +6,31 @@ definitions in
 [***plain english***](http://en.wikipedia.org/wiki/Plain_English). <br />
 Please ***help us***!
 See below for guidelines for contributing.
+
+## Communication
+
+### Email
+
+- ***One*** Subject/Topic/Request/Action Point **per email**.
+- Don't hijack an email with one subject and reply
+with a *totally different* one.
+e.g. if the topic is "**Training Policy**" don't try to
+sidetrack the email to a conversation about
+"***stationary ordering***" (or what ever!).
+Just start a new/fresh email.
+- Don't include people who don't *need* to be included.
+**reply-to-all** and CC'ing everyone for **no reason**
+***wastes*** people's ***time***.
+- *Conversely* if the *original* sender of an email has
+included specific people in CC, its good practice
+to reply-to-all to ensure those people are kept informed.
+(yes this perpetuates an *include everyone* mistake
+  but its better to keep people informed than
+  have them feel "left out")
+
+### Instant Messaging
+
+
 
 
 ## Accepting Work
@@ -81,7 +105,6 @@ Time is the most ***precious*** thing people have.
 Wasting your own time is your decision.
 Wasting the time of others - either through
 laziness or negligence - is *inexcusable*.
-
 
 ### Don't "Kill" (Your Own) Time
 
@@ -248,3 +271,10 @@ A system, process, department, etc. that operates in isolation from others.
 2. The opposite of a *maker*.
 A person who takes more value than they create.
 (***Proposed***)
+
+<br />
+---
+
+And remember:
+
+![Move-Fast-and-MAKE-Things](http://i.imgur.com/yQE76kc.png)
