@@ -5,7 +5,21 @@ definitions in
 [***plain english***](http://en.wikipedia.org/wiki/Plain_English). <br />
 Please help us! See below for guidelines for contributing.
 
+
 ## Accepting Work
+
+### *Don't Accept* Tasks *Verbally*
+
+Its not a *request* unless its written.
+
+If someone asks you to do something *verbally*,
+ask them to ***formalise*** the request ***before***
+you start.
+
+Take the initiative to create a story in the
+task tracker and send it to them to confirm
+you have the details correct.
+
 
 ### Before Starting
 
@@ -14,8 +28,18 @@ the person taking on the task (maker) ***must confirm***
 their understanding of the *requirement(s)* from
 the person who requested the task (requestor).
 
-### Don't Accept Work you are Unable to Complete
+### *Overpromising Kills Kittens*
 
+Don't accept a task you *know* you are *unable*
+to complete. If you do not have enough **time**
+or **skills** to deliver a task make that *clear*
+to the requestor and let her decide
+if its appropriate for you to do the work.
+
+Yes, this contradicts the idea of
+"*fake it till you make it*" but it prevents
+people from making promises they can't keep
+(which makes everyone *sad*...)
 
 
 ## Chargeable Work
@@ -67,7 +91,12 @@ If you don't have a **list of things to learn**,
 get one.
 
 
+## Done
 
+## If its *Not Documented* its *Not Done*
+
+If you were hit by a bus, can someone else
+pick up your work? No? Its not done.
 
 <br />
 ---
@@ -122,6 +151,12 @@ Excessively complicated administrative procedure.
 2. A person who acts rather than merely
 talking or thinking. <br />
 
+> Documented
+
+## [*Documentation*](http://en.wikipedia.org/wiki/Documentation)
+
+Documentation is a set of documents provided on paper,
+or online (e.g. email), or on digital or analog media.
 
 
 ## *Done*
@@ -133,6 +168,9 @@ talking or thinking. <br />
 
 > Estimation
 
+> Formal
+
+> Formalise
 
 ## [*Laziness*](http://www.oxforddictionaries.com/definition/english/laziness)
 
@@ -148,6 +186,14 @@ The market rate (or "going rate") for goods
 or services is the usual price charged for them
 in a free market.
 
+## [*Overpromise*](http://en.wiktionary.org/wiki/overpromise)
+
+To promise more than is delivered.
+
+## [*Reproducible*](http://en.wiktionary.org/wiki/reproducible)
+
+Capable of being reproduced at a different time or
+ place and by different people.
 
 ## [*Request*](http://www.oxforddictionaries.com/definition/english/request)
 
