@@ -1,9 +1,12 @@
+![Move-Fast-and-MAKE-Things](http://i.imgur.com/yQE76kc.png)
+
 # Rules
 
 We are compiling a list of rules and common
 definitions in
 [***plain english***](http://en.wikipedia.org/wiki/Plain_English). <br />
-Please help us! See below for guidelines for contributing.
+Please ***help us***!
+See below for guidelines for contributing.
 
 
 ## Accepting Work
@@ -21,7 +24,7 @@ task tracker and send it to them to confirm
 you have the details correct.
 
 
-### Before Starting
+### *Before* Starting
 
 ***Before*** a project/task can be *started*,
 the person taking on the task (maker) ***must confirm***
@@ -77,7 +80,7 @@ only be sent when the work is ***complete***.
 Time is the most ***precious*** thing people have.
 Wasting your own time is your decision.
 Wasting the time of others - either through
-laziness or negligence - is inexcusable.
+laziness or negligence - is *inexcusable*.
 
 
 ### Don't "Kill" (Your Own) Time
@@ -93,10 +96,18 @@ get one.
 
 ## Done
 
-## If its *Not Documented* its *Not Done*
+### The Requestor Defines "Done" for the Task
+
+Its the requestor
+
+### If its *Not Documented* its *Not Done*
 
 If you were hit by a bus, can someone else
 pick up your work? No? Its not done.
+
+## Read the Agile Manifesto
+
+> http://agilemanifesto.org/principles.html
 
 <br />
 ---
@@ -109,19 +120,19 @@ pick up your work? No? Its not done.
 Everyone is *encouraged* to add rules which
 promote clearer communication, cooperation and creativity.
 
-#### Process
+### *Process*
 
-The process for adding a rule is simple:
-Either:
+The process for adding/modifying a rule is simple.
 
-a. Submit an issue on github: https://github.com/ideaq/rules/issues
+***Either***: <br/>
+a. Submit an issue (for discussion) on github: https://github.com/ideaq/rules/issues
 <br />***or***<br />
 b. [Fork](https://help.github.com/articles/fork-a-repo)
 this rules [repository](https://github.com/ideaq/rules),
 on github, add the rule and submit a
 [pull-request](http://stackoverflow.com/questions/14680711/how-to-do-a-github-pull-request).
 
-#### *Avoid*
+### *Avoid*
 
 Avoid creating rules which reduce
 communication/innovation/creativity,
@@ -132,6 +143,12 @@ cause unreasonable bureaucracy or silos.
 
 
 # Definitions / Glossary
+
+> Acceptance
+
+> Acceptance Criteria
+
+
 
 > Activity
 
@@ -144,6 +161,7 @@ cause unreasonable bureaucracy or silos.
 
 Excessively complicated administrative procedure.
 
+> Criteria
 
 ## [*Doer*](http://www.oxforddictionaries.com/definition/english/doer)
 
